@@ -9,18 +9,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "prepare"
-    },
-    {
-      "name": "Prepareprocedure",
-      "type": "procedure",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "prepareprocedure",
-      "metadata": {
-        "dependencies": []
-      }
     }
   ],
   "variable_elements": [],

@@ -1,0 +1,40 @@
+{
+  "_fv": 10,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 100,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Click \"OKAY\" to prepare server",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Click \"OKAY\" to prepare server",
+          "x": 276,
+          "y": 204
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "OKAY",
+          "onClick": {
+            "name": "Prepareprocedure"
+          },
+          "width": 80,
+          "height": 40,
+          "name": "OKAY",
+          "x": 375,
+          "y": 238
+        }
+      }
+    ]
+  }
+}

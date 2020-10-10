@@ -1,28 +1,6 @@
 {
   "id_map": {},
-  "mod_elements": [
-    {
-      "name": "Prepare",
-      "type": "gui",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "prepare"
-    },
-    {
-      "name": "Prepareprocedure",
-      "type": "procedure",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "prepareprocedure",
-      "metadata": {
-        "dependencies": []
-      }
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
